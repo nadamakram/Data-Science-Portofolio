@@ -18,6 +18,6 @@ on logs using Apache server error logs.
 <br>
 **[Scrape courses information from a website](https://github.com/nadamakram/courses-web-scraping)**: Using Scrapy library to collect titles of courses and chapters titles in each course of the datacamp courses website.
 ## SQL
-**[SQL Solutions](https://github.com/nadamakram/Data-Science-Portofolio/tree/main/SQL)**: SQL solutions of some leetcode problems.
+**[SQL Solutions](https://github.com/nadamakram/sql)**: SQL solutions of some leetcode problems.
 ## Deplyments 
 **[Docker courses flask app](https://github.com/nadamakram/flask-courses-app)**: Deplpying a flask app using Docker and minikube Kubernetes cluster.
